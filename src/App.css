@@ -1,0 +1,25 @@
+/*button {
+    position: absolute;
+    width: 296px;
+    height: 84px;
+    left: 351px;
+    top: 338px;
+    font-size: 45px;
+
+    background: linear-gradient(180deg, #CC00FF 0%, rgba(255, 255, 255, 0) 100%), #8200E9;
+    mix-blend-mode: normal;
+    border-radius: 50px;
+}*/
+body{
+    background: #CF0000;
+}
+
+div {
+    align-items: center;
+    display: flex;
+    width: 300px;
+    height: 450px;
+
+    background: #ECECEC;
+    border-radius: 20px;
+}
